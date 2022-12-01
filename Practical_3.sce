@@ -1,6 +1,8 @@
+//Dhruv Thakur(1/19/FET/BCS/021)
 //Practical 3
+
 //SingleServerQueueSimulation
-//Find service time, idle time, wait time for a single queue server
+
 
 //2 3 1 1 1 1 2		arrival time 
 //0 6 7 11 14 20 25	burst time
